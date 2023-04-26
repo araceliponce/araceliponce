@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
-
 -->
 
-[![Most Used Langs](https://github-readme-stats-one-araceli.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
 
