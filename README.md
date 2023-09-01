@@ -1,10 +1,9 @@
 <h1 align="center" style="font-size:.7rem"> Hi, I'm Araceli ✨ </h1>  
 
 # 💫 About Me:
-🔭 Expanding my portfolio by crafting interactive and user-friendly web applications.  
-👯 I’m looking to collaborate on exciting front-end development projects that challenge my skills.       
-🌱 Actively learning Vue.js and dedicated to improving my English speaking skills.   
-💬 Feel free to reach out for advice on front-end best practices, HTML, CSS, or even for practicing English conversation.   
+🔭 Expanding my portfolio.  
+🌱 Actively improving my Vue3 and English speaking skills.   
+💬 Feel free to reach out for anything.   
 ⚡ Fun fact: I have a knack for growing tomatoes!
 
 # 💻 Tech Stack:
