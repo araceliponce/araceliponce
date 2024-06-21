@@ -3,8 +3,7 @@
 
 ## 👀 About Me:
 Hi. I am a web developer from Peru.   
-My top dev skills are in CSS, semantic HTML (HTML5), a11y, and pages optimization.  
-Although I do consider myself a kinda full stack developer when needed.  
+My top dev skills are CSS, semantic HTML and pages optimization.  
 
 ## 👑 I’m currently interested in... 
 - Content Creation
